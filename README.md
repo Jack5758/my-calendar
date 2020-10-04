@@ -1,4 +1,4 @@
-# todoapp
+# calendar
 
 ## Project setup
 ```
